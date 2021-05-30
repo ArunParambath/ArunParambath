@@ -1,7 +1,6 @@
 - 👋 Hi, I’m ArunParambath
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning javascript frameworks
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arunparambath@gmail.com
 
 <!---
